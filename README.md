@@ -1,1 +1,2 @@
-distance-texture-pack-mod
+===
+Distance Resource Pack Mod
