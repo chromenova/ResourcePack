@@ -1,0 +1,15 @@
+{
+    "FriendlyName": "Texture Pack",
+    "Author": "Nova",
+    "AuthorContact": "justinscottking@gmail.com",
+    "CompatibleAPILevel": 6,
+    "IPCIdentifier": "TexturePack",
+    
+    "ModuleFileName": "TexturePack.dll",
+    "EntryClassName": "Entry",
+    
+    "Priority": 10,
+    "SkipLoad": false,
+    
+    "Dependencies": []
+}
